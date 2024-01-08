@@ -71,7 +71,7 @@ Set more key frames between 0% and 100%. */
 .todo-3-container button {
   transition: transform 1000ms linear 0s;
 }
-.todo-3-container button {
+.todo-3-container button:hover {
   transform: translateY(-20px);
   box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.24);
 }
